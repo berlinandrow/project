@@ -14,6 +14,7 @@ public class Sel {
 	WebDriver wb = new ChromeDriver();
 	wb.get("https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager/5.1.0");
 	System.out.println(wb.getTitle());
+	System.out.println("hello world");
 	wb.close();	
 		
 	}

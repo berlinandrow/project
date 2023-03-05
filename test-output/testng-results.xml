@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-05T15:09:25 IST" name="Default suite" finished-at="2023-03-05T15:09:33 IST" duration-ms="7059">
+  <suite started-at="2023-03-05T17:39:53 IST" name="Default suite" finished-at="2023-03-05T17:39:58 IST" duration-ms="5259">
     <groups>
     </groups>
-    <test started-at="2023-03-05T15:09:25 IST" name="Default test" finished-at="2023-03-05T15:09:33 IST" duration-ms="7059">
+    <test started-at="2023-03-05T17:39:53 IST" name="Default test" finished-at="2023-03-05T17:39:58 IST" duration-ms="5259">
       <class name="Project1.Sel">
-        <test-method signature="ber()[pri:0, instance:Project1.Sel@4944252c]" started-at="2023-03-05T15:09:26 IST" name="ber" finished-at="2023-03-05T15:09:33 IST" duration-ms="6969" status="PASS">
+        <test-method signature="ber()[pri:0, instance:Project1.Sel@4944252c]" started-at="2023-03-05T17:39:53 IST" name="ber" finished-at="2023-03-05T17:39:58 IST" duration-ms="5168" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ber -->
