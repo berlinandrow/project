@@ -61,9 +61,7 @@ Pom.text.click();
 Pom.text1.sendKeys(name);
 Actions ac = new Actions(wb);
 ac.click(search).build().perform();
-if(name == "pant") {
-	assertEquals(false, true);
-}
+
 
 //Pom.search.click();
 
